@@ -1,0 +1,14 @@
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\bin\Debug\net9.0\ParkingLotSystem.exe
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\bin\Debug\net9.0\ParkingLotSystem.deps.json
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\bin\Debug\net9.0\ParkingLotSystem.runtimeconfig.json
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\bin\Debug\net9.0\ParkingLotSystem.dll
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\bin\Debug\net9.0\ParkingLotSystem.pdb
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\obj\Debug\net9.0\ParkingLotSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\obj\Debug\net9.0\ParkingLotSystem.AssemblyInfoInputs.cache
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\obj\Debug\net9.0\ParkingLotSystem.AssemblyInfo.cs
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\obj\Debug\net9.0\ParkingLotSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\obj\Debug\net9.0\ParkingLotSystem.dll
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\obj\Debug\net9.0\refint\ParkingLotSystem.dll
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\obj\Debug\net9.0\ParkingLotSystem.pdb
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\obj\Debug\net9.0\ParkingLotSystem.genruntimeconfig.cache
+C:\Users\Asep\Pictures\belajar\projectNet\ParkingLotSystem\obj\Debug\net9.0\ref\ParkingLotSystem.dll
